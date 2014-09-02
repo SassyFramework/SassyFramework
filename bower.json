@@ -1,0 +1,29 @@
+{
+  "name": "SassyFramework",
+  "version": "0.0.1",
+  "authors": [
+    "johngerome <johngerome@gmail.com>"
+  ],
+  "description": "A Sassy Framework!",
+  "keywords": [
+    "sass",
+    "framework",
+    "sassy",
+    "sassy",
+    "framework",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "sassyframework.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sassybreakpoint": "~0.0.1",
+    "sassyplaceholder": "~0.0.1"
+  }
+}
